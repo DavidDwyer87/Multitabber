@@ -1,0 +1,11 @@
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\bin\Debug\ExtManager.exe
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\bin\Debug\ExtManager.pdb
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\MainWindow.baml
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\App.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager_MarkupCompile.cache
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager.g.resources
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager.Properties.Resources.resources
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager.csproj.GenerateResource.Cache
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager.exe
+C:\Users\Bishop\Desktop\MultiTabber\ExtManager\obj\x86\Debug\ExtManager.pdb

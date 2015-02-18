@@ -1,0 +1,14 @@
+H:\Projects\MultiTabber\Cube\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Projects\MultiTabber\Cube\obj\x86\Release\App.g.cs
+H:\Projects\MultiTabber\Cube\obj\x86\Release\Cube_MarkupCompile.cache
+H:\Projects\MultiTabber\Cube\obj\x86\Release\MainWindow.baml
+H:\Projects\MultiTabber\Cube\obj\x86\Release\MainWindow.g.cs
+H:\Projects\MultiTabber\Cube\obj\x86\Release\Cube.g.resources
+H:\Projects\MultiTabber\Cube\obj\x86\Release\Cube.Properties.Resources.resources
+H:\Projects\MultiTabber\Cube\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Projects\MultiTabber\Cube\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Projects\MultiTabber\Cube\bin\Release\Cube.exe
+H:\Projects\MultiTabber\Cube\bin\Release\Cube.pdb
+H:\Projects\MultiTabber\Cube\obj\x86\Release\Cube.exe
+H:\Projects\MultiTabber\Cube\obj\x86\Release\Cube.pdb
+H:\Projects\MultiTabber\Cube\obj\x86\Release\App.baml
