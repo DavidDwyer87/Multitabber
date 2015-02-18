@@ -1,0 +1,87 @@
+H:\Projects\MultiTabber\Options\bin\Release\Options.exe
+H:\Projects\MultiTabber\Options\bin\Release\Options.pdb
+H:\Projects\MultiTabber\Options\bin\Release\AppList.dll
+H:\Projects\MultiTabber\Options\bin\Release\ControlScreen.dll
+H:\Projects\MultiTabber\Options\bin\Release\Hook.dll
+H:\Projects\MultiTabber\Options\bin\Release\Screen Extender.exe
+H:\Projects\MultiTabber\Options\bin\Release\Startup.dll
+H:\Projects\MultiTabber\Options\bin\Release\Syncro.dll
+H:\Projects\MultiTabber\Options\bin\Release\Tools.dll
+H:\Projects\MultiTabber\Options\bin\Release\TrayComp.dll
+H:\Projects\MultiTabber\Options\bin\Release\TrayComp.pdb
+H:\Projects\MultiTabber\Options\bin\Release\AppList.pdb
+H:\Projects\MultiTabber\Options\bin\Release\ControlScreen.pdb
+H:\Projects\MultiTabber\Options\bin\Release\Hook.pdb
+H:\Projects\MultiTabber\Options\bin\Release\Screen Extender.pdb
+H:\Projects\MultiTabber\Options\bin\Release\Screen Extender.xml
+H:\Projects\MultiTabber\Options\bin\Release\Startup.pdb
+H:\Projects\MultiTabber\Options\bin\Release\Syncro.pdb
+H:\Projects\MultiTabber\Options\bin\Release\Tools.pdb
+H:\Projects\MultiTabber\Options\obj\x86\Release\MainOption.baml
+H:\Projects\MultiTabber\Options\obj\x86\Release\MainOption.g.cs
+H:\Projects\MultiTabber\Options\obj\x86\Release\App.g.cs
+H:\Projects\MultiTabber\Options\obj\x86\Release\Options_MarkupCompile.cache
+H:\Projects\MultiTabber\Options\obj\x86\Release\Options.g.resources
+H:\Projects\MultiTabber\Options\obj\x86\Release\Options.Properties.Resources.resources
+H:\Projects\MultiTabber\Options\obj\x86\Release\Options.exe
+H:\Projects\MultiTabber\Options\obj\x86\Release\Options.pdb
+G:\Projects\MultiTabber\Options\bin\Release\Options.exe
+G:\Projects\MultiTabber\Options\bin\Release\Options.pdb
+G:\Projects\MultiTabber\Options\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Projects\MultiTabber\Options\obj\x86\Release\MainOption.baml
+G:\Projects\MultiTabber\Options\obj\x86\Release\MainOption.g.cs
+G:\Projects\MultiTabber\Options\obj\x86\Release\App.g.cs
+G:\Projects\MultiTabber\Options\obj\x86\Release\Options_MarkupCompile.cache
+G:\Projects\MultiTabber\Options\obj\x86\Release\Options.g.resources
+G:\Projects\MultiTabber\Options\obj\x86\Release\Options.Properties.Resources.resources
+G:\Projects\MultiTabber\Options\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Projects\MultiTabber\Options\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Projects\MultiTabber\Options\obj\x86\Release\Options.exe
+G:\Projects\MultiTabber\Options\obj\x86\Release\Options.pdb
+H:\Projects\MultiTabber\Options\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Projects\MultiTabber\Options\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Projects\MultiTabber\Options\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Options.exe
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Options.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\TrayComp.dll
+D:\Projects\Projects\MultiTabber\Options\bin\Release\AppList.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\ControlScreen.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Hook.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Screen Extender.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Screen Extender.xml
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Startup.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Syncro.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\Tools.pdb
+D:\Projects\Projects\MultiTabber\Options\bin\Release\TrayComp.pdb
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.csprojResolveAssemblyReference.cache
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\MainOption.baml
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\MainOption.g.cs
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\App.g.cs
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options_MarkupCompile.cache
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.g.resources
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.Properties.Resources.resources
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.csproj.GenerateResource.Cache
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.exe
+D:\Projects\Projects\MultiTabber\Options\obj\x86\Release\Options.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Options.exe
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Options.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\TrayComp.dll
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\AppList.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\ControlScreen.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Hook.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Screen Extender.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Screen Extender.xml
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Startup.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Syncro.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\Tools.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Release\TrayComp.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.csprojResolveAssemblyReference.cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\MainOption.baml
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\MainOption.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\App.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options_MarkupCompile.cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.g.resources
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.Properties.Resources.resources
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.csproj.GenerateResource.Cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.exe
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Release\Options.pdb

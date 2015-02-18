@@ -1,0 +1,62 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WindowsXception.MainWindow"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        Title="Universal Window" Height="389" Width="666" WindowStyle="ToolWindow" ShowInTaskbar="False" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid>
+        <Rectangle Height="44" HorizontalAlignment="Left" Margin="-28,0,0,-48" x:Name="rectangle1" Stroke="{x:Null}" VerticalAlignment="Bottom" Width="200" Fill="#E5274B79" StrokeDashCap="Square" RenderTransformOrigin="0,0" d:LayoutOverrides="HorizontalAlignment" >
+        	<Rectangle.RenderTransform>
+        		<TransformGroup>
+        			<ScaleTransform/>
+        			<SkewTransform/>
+        			<RotateTransform Angle="-51.605"/>
+        			<TranslateTransform/>
+        		</TransformGroup>
+        	</Rectangle.RenderTransform>
+        </Rectangle>
+        <Button Content="Ok" Height="23" HorizontalAlignment="Left" Margin="475,317,0,0" x:Name="OK" VerticalAlignment="Top" Width="75" Click="OK_Click" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="556,317,0,0" x:Name="Cancel" VerticalAlignment="Top" Width="75" Click="Cancel_Click" />
+        <TabControl Height="269" HorizontalAlignment="Left" Margin="12,42,0,0" x:Name="tabControl1" VerticalAlignment="Top" Width="620">
+            <TabItem Header="Application " x:Name="tabItem1">
+                <Grid>
+                    <ListView Height="221" HorizontalAlignment="Left" ItemsSource="{Binding ApplicationCollection}" Margin="10,10,0,0" x:Name="listView1" VerticalAlignment="Top" Width="594">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox Checked="row_Checked" Unchecked="row_Unchecked" IsThreeState="False" x:Name="row" Tag="{Binding}" IsChecked="{Binding Path=Value,Mode=TwoWay}" />
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn DisplayMemberBinding="{Binding windowName}" Header="Application Window" Width="auto" />
+                                <GridViewColumn DisplayMemberBinding="{Binding screen}" Header="Tab Number" Width="auto" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Process" x:Name="tabItem2">
+                <Grid>
+                    <ListView Height="225" HorizontalAlignment="Left" Margin="6,6,0,0" x:Name="listView2" VerticalAlignment="Top" Width="598" ItemsSource="{Binding ProcessCollection}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <CheckBox Tag="{Binding}" Checked="CheckBox_Checked" Unchecked="processRow_Unchecked" x:Name="processRow" IsThreeState="False" IsChecked="{Binding Path=Value,Mode=TwoWay}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Process" Width="auto" DisplayMemberBinding="{Binding processName}"/>
+                                <GridViewColumn Header="Application" Width="auto" DisplayMemberBinding="{Binding applicationName}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Label Content="Universal Window" Height="36" HorizontalAlignment="Left" Margin="467,12,0,0" x:Name="label1" VerticalAlignment="Top" Width="165" Foreground="#E5274B79" FontWeight="Bold" FontSize="18" FontStyle="Normal" FontStretch="Normal" FontFamily="Vrinda" />
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.pdb
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\dots.baml
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\dots.g.cs
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls_MarkupCompile.cache
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.g.resources
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.Properties.Resources.resources
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.dll
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.pdb
+H:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll.config
+H:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll
+H:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.pdb
+H:\Projects\MultiTabber\VirtualControls\bin\Release\framework.dll
+H:\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.exe
+H:\Projects\MultiTabber\VirtualControls\bin\Release\framework.pdb
+H:\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.pdb
+H:\Projects\MultiTabber\VirtualControls\obj\Release\dots.baml
+H:\Projects\MultiTabber\VirtualControls\obj\Release\dots.g.cs
+H:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls_MarkupCompile.cache
+H:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.g.resources
+H:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.Properties.Resources.resources
+H:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.dll
+H:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.pdb
+G:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll.config
+G:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll
+G:\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.pdb
+G:\Projects\MultiTabber\VirtualControls\bin\Release\framework.dll
+G:\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.exe
+G:\Projects\MultiTabber\VirtualControls\bin\Release\framework.pdb
+G:\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.pdb
+G:\Projects\MultiTabber\VirtualControls\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\MultiTabber\VirtualControls\obj\Release\dots.baml
+G:\Projects\MultiTabber\VirtualControls\obj\Release\dots.g.cs
+G:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls_MarkupCompile.cache
+G:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.g.resources
+G:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.Properties.Resources.resources
+G:\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.read.1.tlog
+G:\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.write.1.tlog
+G:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.dll
+G:\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.pdb
+H:\Projects\MultiTabber\VirtualControls\obj\Release\ResolveAssemblyReference.cache
+H:\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.read.1.tlog
+H:\Projects\MultiTabber\VirtualControls\obj\Release\GenerateResource.write.1.tlog
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll.config
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\VirtualControls.pdb
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\framework.dll
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.exe
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\framework.pdb
+D:\Projects\Projects\MultiTabber\VirtualControls\bin\Release\Indicator.pdb
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.csprojResolveAssemblyReference.cache
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\dots.baml
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\dots.g.cs
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls_MarkupCompile.cache
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.g.resources
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.Properties.Resources.resources
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.csproj.GenerateResource.Cache
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.dll
+D:\Projects\Projects\MultiTabber\VirtualControls\obj\Release\VirtualControls.pdb
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll.config
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\VirtualControls.dll
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\VirtualControls.pdb
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\framework.dll
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\Indicator.exe
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\framework.pdb
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\bin\Release\Indicator.pdb
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.csprojResolveAssemblyReference.cache
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\dots.baml
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\dots.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls_MarkupCompile.cache
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.g.resources
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.Properties.Resources.resources
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.csproj.GenerateResource.Cache
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.dll
+C:\Users\Bishop\Desktop\MultiTabber\VirtualControls\obj\Release\VirtualControls.pdb

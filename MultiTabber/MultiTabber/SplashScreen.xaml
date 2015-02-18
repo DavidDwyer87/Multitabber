@@ -1,0 +1,44 @@
+﻿<Window x:Class="MultiTabber.SplashScreen"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	   xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+	   mc:Ignorable="d"
+        Title="SplashScreen" d:DesignWidth="640" d:DesignHeight="480" WindowStyle="None" AllowsTransparency="True" Topmost="True" ShowInTaskbar="False" WindowStartupLocation="Manual">
+
+    <Window.Background >
+        <SolidColorBrush x:Name="BackgroundBrush" Color="WhiteSmoke" Opacity="0" ></SolidColorBrush>
+    </Window.Background>
+    
+    <Canvas>
+        <Rectangle  Width="552" Height="208" Margin="51,120,37,152" RadiusY="4" RadiusX="4" StrokeStartLineCap="Round" StrokeEndLineCap="Round" StrokeDashCap="Round" StrokeLineJoin="Round" StrokeThickness="1.5">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#1087A8EB" Offset="1"/>
+                    <GradientStop Color="#18C8C8C8"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+            <Rectangle.Effect>
+                <DropShadowEffect Color="#FF141414"/>
+            </Rectangle.Effect>
+            <Rectangle.Stroke>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#75D4C7C7" Offset="1"/>
+                    <GradientStop Color="#69505050" Offset="0.004"/>
+                </LinearGradientBrush>
+            </Rectangle.Stroke>
+        </Rectangle>
+
+        <Label Height="47" VerticalAlignment="Top" Content="Multi-Tabber" FontSize="32" FontFamily="Andalus" HorizontalAlignment="Right" Width="191" Canvas.Left="371" Canvas.Top="151" Foreground="#FF030303"></Label>
+        <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Product of " Width="87" FontSize="13.333" Canvas.Left="426" Canvas.Top="246" RenderTransformOrigin="0.575,0.7" Foreground="Black"></Label>
+        <Image HorizontalAlignment="Right" Width="203" Source="/MultiTabber;component/Images/LogoConcept104%28no_background%29.png" Height="53" VerticalAlignment="Bottom" Canvas.Left="382" Canvas.Top="275"/>
+        <Rectangle Height="94" HorizontalAlignment="Left" Margin="84,137,0,0" Name="rectangle1" Stroke="#FFAE9A56" VerticalAlignment="Top" Width="141" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Bevel" StrokeStartLineCap="Round" StrokeThickness="4" />
+        <Rectangle Height="43" HorizontalAlignment="Left" Margin="147,155,0,0" Name="rectangle2" Stroke="#FF4F2229" StrokeDashCap="Round" StrokeEndLineCap="Round" StrokeLineJoin="Bevel" StrokeStartLineCap="Round" StrokeThickness="4" VerticalAlignment="Top" Width="65" />
+        <Ellipse Height="10" Margin="131,209,0,0" Name="ellipse1" Stroke="{x:Null}" VerticalAlignment="Top" Fill="#FFE81515" HorizontalAlignment="Left" Width="10" />
+        <Ellipse Fill="#FFE81515" Height="10" HorizontalAlignment="Right" Margin="0,209,485,0" Name="ellipse2" Stroke="{x:Null}" VerticalAlignment="Top" Width="10" Canvas.Left="110" Canvas.Top="0" />
+        <Ellipse Fill="#FF8E8F90" Height="10" HorizontalAlignment="Left" Name="ellipse3" Stroke="{x:Null}" VerticalAlignment="Top" Width="10" Canvas.Left="152" Canvas.Top="209" />
+        <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="Version 1.0" Width="87" FontSize="13.333" Canvas.Left="86" Canvas.Top="261" Foreground="Black"></Label>
+        <Label x:Name="copyright" HorizontalAlignment="Left" VerticalAlignment="Bottom" Content="© Copyright " Width="139" FontSize="13.333" Canvas.Left="84" Canvas.Top="285" Foreground="Black"></Label>
+    </Canvas>
+</Window>

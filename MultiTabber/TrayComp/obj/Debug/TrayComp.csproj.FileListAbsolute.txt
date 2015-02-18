@@ -1,0 +1,9 @@
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\TrayComp.dll
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\TrayComp.pdb
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\WindowsXception.exe
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\framework.dll
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\WindowsXception.pdb
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\bin\Debug\framework.pdb
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\obj\Debug\TrayComp.csprojResolveAssemblyReference.cache
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\obj\Debug\TrayComp.dll
+C:\Users\Bishop\Desktop\MultiTabber\TrayComp\obj\Debug\TrayComp.pdb

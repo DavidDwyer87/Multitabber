@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Screen Extender</name>
+    </assembly>
+    <members>
+        <member name="T:ScreenNavComp.Indicator">
+            <summary>
+            Interaction logic for Indicator.xaml
+            </summary>
+            <summary>
+            Indicator
+            </summary>
+        </member>
+        <member name="M:ScreenNavComp.Indicator.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Screen_Extender.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Screen_Extender.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.option">
+            <summary>
+            Interaction logic for option.xaml
+            </summary>
+            <summary>
+            option
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.option.button3_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            this is the top button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Screen_Extender.option.button5_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            this is the left button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Screen_Extender.option.button6_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Right button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Screen_Extender.option.button7_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Bottom button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Screen_Extender.option.button4_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            this is the center button
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Screen_Extender.option.CreateShortcut(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Create Windows Shorcut
+            </summary>
+            <param name="SourceFile">A file you want to make shortcut to</param>
+            <param name="ShortcutFile">Path and shorcut file name including file extension (.lnk)</param>
+            <param name="Description">Shortcut description</param>
+            <param name="Arguments">Command line arguments</param>
+            <param name="HotKey">Shortcut hot key as a string, for example "Ctrl+F"</param>
+            <param name="WorkingDirectory">"Start in" shorcut parameter</param>
+        </member>
+        <member name="M:Screen_Extender.option.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.KeyboardListener">
+            <summary>
+            Listens keyboard globally.
+            
+            <remarks>Uses WH_KEYBOARD_LL.</remarks>
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.KeyboardListener.#ctor">
+            <summary>
+            Creates global keyboard listener.
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.KeyboardListener.Finalize">
+            <summary>
+            Destroys global keyboard listener.
+            </summary>
+        </member>
+        <member name="F:Screen_Extender.KeyboardListener.hookId">
+            <summary>
+            Hook ID
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.KeyboardListener.LowLevelKeyboardProc(System.Int32,System.UIntPtr,System.IntPtr)">
+            <summary>
+            Actual callback hook.
+            
+            <remarks>Calls asynchronously the asyncCallback.</remarks>
+            </summary>
+            <param name="nCode"></param>
+            <param name="wParam"></param>
+            <param name="lParam"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Screen_Extender.KeyboardListener.hookedKeyboardCallbackAsync">
+            <summary>
+            Event to be invoked asynchronously (BeginInvoke) each time key is pressed.
+            </summary>
+        </member>
+        <member name="F:Screen_Extender.KeyboardListener.hookedLowLevelKeyboardProc">
+            <summary>
+            Contains the hooked callback in runtime.
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.KeyboardListener.KeyboardListener_KeyboardCallbackAsync(Screen_Extender.InterceptKeys.KeyEvent,System.Int32)">
+            <summary>
+            HookCallbackAsync procedure that calls accordingly the KeyDown or KeyUp events.
+            </summary>
+            <param name="keyEvent">Keyboard event</param>
+            <param name="vkCode">VKCode</param>
+        </member>
+        <member name="M:Screen_Extender.KeyboardListener.Dispose">
+            <summary>
+            Disposes the hook.
+            <remarks>This call is required as it calls the UnhookWindowsHookEx.</remarks>
+            </summary>
+        </member>
+        <member name="E:Screen_Extender.KeyboardListener.KeyDown">
+            <summary>
+            Fired when any of the keys is pressed down.
+            </summary>
+        </member>
+        <member name="E:Screen_Extender.KeyboardListener.KeyUp">
+            <summary>
+            Fired when any of the keys is released.
+            </summary>
+        </member>
+        <member name="T:Screen_Extender.KeyboardListener.KeyboardCallbackAsync">
+            <summary>
+            Asynchronous callback hook.
+            </summary>
+            <param name="nCode"></param>
+            <param name="wParam"></param>
+            <param name="lParam"></param>
+        </member>
+        <member name="T:Screen_Extender.RawKeyEventArgs">
+            <summary>
+            Raw KeyEvent arguments.
+            </summary>
+        </member>
+        <member name="F:Screen_Extender.RawKeyEventArgs.VKCode">
+            <summary>
+            VKCode of the key.
+            </summary>
+        </member>
+        <member name="F:Screen_Extender.RawKeyEventArgs.Key">
+            <summary>
+            WPF Key of the key.
+            </summary>
+        </member>
+        <member name="F:Screen_Extender.RawKeyEventArgs.IsSysKey">
+            <summary>
+            Is the hitted key system key.
+            </summary>
+        </member>
+        <member name="M:Screen_Extender.RawKeyEventArgs.#ctor(System.Int32,System.Boolean)">
+            <summary>
+            Create raw keyevent arguments.
+            </summary>
+            <param name="VKCode"></param>
+            <param name="isSysKey"></param>
+        </member>
+        <member name="T:Screen_Extender.RawKeyEventHandler">
+            <summary>
+            Raw keyevent handler.
+            </summary>
+            <param name="sender">sender</param>
+            <param name="args">raw keyevent arguments</param>
+        </member>
+        <member name="T:Screen_Extender.InterceptKeys">
+            <summary>
+            Winapi Key interception helper class.
+            </summary>
+        </member>
+    </members>
+</doc>

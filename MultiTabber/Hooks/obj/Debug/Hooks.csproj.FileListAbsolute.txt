@@ -1,0 +1,23 @@
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\bin\Debug\Hooks.dll
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\bin\Debug\Hooks.pdb
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\Hooks.Properties.Resources.resources
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\Hooks.dll
+C:\Users\Rook\documents\visual studio 2010\Projects\MultiTabber\Hooks\obj\Debug\Hooks.pdb
+H:\Projects\MultiTabber\Hooks\bin\Debug\Hooks.dll
+H:\Projects\MultiTabber\Hooks\bin\Debug\Hooks.pdb
+H:\Projects\MultiTabber\Hooks\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\MultiTabber\Hooks\obj\Debug\Hooks.Properties.Resources.resources
+H:\Projects\MultiTabber\Hooks\obj\Debug\GenerateResource.read.1.tlog
+H:\Projects\MultiTabber\Hooks\obj\Debug\GenerateResource.write.1.tlog
+H:\Projects\MultiTabber\Hooks\obj\Debug\Hooks.dll
+H:\Projects\MultiTabber\Hooks\obj\Debug\Hooks.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\bin\Debug\Hooks.dll
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\bin\Debug\Hooks.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\obj\Debug\Hooks.csprojResolveAssemblyReference.cache
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\obj\Debug\Hooks.Properties.Resources.resources
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\obj\Debug\Hooks.csproj.GenerateResource.Cache
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\obj\Debug\Hooks.dll
+C:\Users\Bishop\Desktop\MultiTabber\Hooks\obj\Debug\Hooks.pdb

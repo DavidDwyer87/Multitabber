@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MultiTabber.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Fill" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFEB0F0F</Value>
+    </Setting>
+    <Setting Name="stroke" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFFFFFF</Value>
+    </Setting>
+    <Setting Name="forground" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFFFFFF</Value>
+    </Setting>
+    <Setting Name="Display" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Horizontal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">center</Value>
+    </Setting>
+    <Setting Name="Vertical" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bottom</Value>
+    </Setting>
+    <Setting Name="modify" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Launch" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

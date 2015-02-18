@@ -1,0 +1,13 @@
+﻿<Window x:Class="MultiTabber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MultiTabber" Height="116" Width="357" AllowsTransparency="True" Loaded="Window_Loaded" WindowStyle="None" ShowInTaskbar="False"  Closing="Window_Closing">
+
+    <Window.Background >
+        <SolidColorBrush x:Name="BackgroundBrush" Color="WhiteSmoke" Opacity="0" ></SolidColorBrush>
+    </Window.Background>
+
+    <Canvas Name="sprite" Background="{x:Null}">
+       
+    </Canvas>
+</Window>

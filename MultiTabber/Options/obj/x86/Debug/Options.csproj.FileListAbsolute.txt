@@ -1,0 +1,76 @@
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Options.exe
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Options.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\AppList.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\ControlScreen.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Hook.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Screen Extender.exe
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Startup.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Syncro.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Tools.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\TrayComp.dll
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\TrayComp.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\AppList.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\ControlScreen.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Hook.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Screen Extender.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Screen Extender.xml
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Startup.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Syncro.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\bin\Debug\Tools.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\App.g.cs
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\Options_MarkupCompile.cache
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\Options.g.resources
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\Options.Properties.Resources.resources
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\Options.exe
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\Options.pdb
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\MainOption.baml
+C:\Users\Rook\Documents\Visual Studio 2010\Projects\MultiTabber\Options\obj\x86\Debug\MainOption.g.cs
+H:\Projects\MultiTabber\Options\bin\Debug\Options.exe
+H:\Projects\MultiTabber\Options\bin\Debug\Options.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\AppList.dll
+H:\Projects\MultiTabber\Options\bin\Debug\ControlScreen.dll
+H:\Projects\MultiTabber\Options\bin\Debug\Hook.dll
+H:\Projects\MultiTabber\Options\bin\Debug\Screen Extender.exe
+H:\Projects\MultiTabber\Options\bin\Debug\Startup.dll
+H:\Projects\MultiTabber\Options\bin\Debug\Syncro.dll
+H:\Projects\MultiTabber\Options\bin\Debug\Tools.dll
+H:\Projects\MultiTabber\Options\bin\Debug\TrayComp.dll
+H:\Projects\MultiTabber\Options\bin\Debug\WindowsXception.exe
+H:\Projects\MultiTabber\Options\bin\Debug\framework.dll
+H:\Projects\MultiTabber\Options\bin\Debug\TrayComp.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\AppList.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\ControlScreen.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\Hook.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\Screen Extender.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\Screen Extender.xml
+H:\Projects\MultiTabber\Options\bin\Debug\Startup.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\Syncro.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\Tools.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\WindowsXception.pdb
+H:\Projects\MultiTabber\Options\bin\Debug\framework.pdb
+H:\Projects\MultiTabber\Options\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Projects\MultiTabber\Options\obj\x86\Debug\MainOption.baml
+H:\Projects\MultiTabber\Options\obj\x86\Debug\MainOption.g.cs
+H:\Projects\MultiTabber\Options\obj\x86\Debug\App.g.cs
+H:\Projects\MultiTabber\Options\obj\x86\Debug\Options_MarkupCompile.cache
+H:\Projects\MultiTabber\Options\obj\x86\Debug\Options.g.resources
+H:\Projects\MultiTabber\Options\obj\x86\Debug\Options.Properties.Resources.resources
+H:\Projects\MultiTabber\Options\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Projects\MultiTabber\Options\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Projects\MultiTabber\Options\obj\x86\Debug\Options.exe
+H:\Projects\MultiTabber\Options\obj\x86\Debug\Options.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Debug\Options.exe
+C:\Users\Bishop\Desktop\MultiTabber\Options\bin\Debug\Options.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.csprojResolveAssemblyReference.cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\MainOption.baml
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\MainOption.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\App.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options_MarkupCompile.cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.g.resources
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.Properties.Resources.resources
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.csproj.GenerateResource.Cache
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.exe
+C:\Users\Bishop\Desktop\MultiTabber\Options\obj\x86\Debug\Options.pdb

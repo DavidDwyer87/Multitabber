@@ -1,0 +1,8 @@
+C:\Users\Bishop\Desktop\MultiTabber\Summary\bin\Debug\Summary.dll
+C:\Users\Bishop\Desktop\MultiTabber\Summary\bin\Debug\Summary.pdb
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\UserSummary.baml
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\UserSummary.g.cs
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\Summary_MarkupCompile.cache
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\Summary.g.resources
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\Summary.dll
+C:\Users\Bishop\Desktop\MultiTabber\Summary\obj\Debug\Summary.pdb
